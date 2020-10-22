@@ -1,0 +1,13 @@
+c1bd417a2a75fe682f00a5fdb8cacccc *DESCRIPTION
+71b696edd4799170c6fa1e97e1b59ed1 *LICENSE
+27dcffdae152dc27c9a8f0ddfc3ad72f *NAMESPACE
+8efc4e748f4d10cb479ae6920f68eb5a *NEWS.md
+d7ef45f8ac358b9deb4b95fc1d779000 *R/label_wsj.R
+bb6849fe39a1c5802f924233a4fd932f *R/theme_wsj.R
+3f66dfd445db05d88beb0f7c337c34ee *README.md
+2d0856659027497cbfe6a09cf62f3c19 *man/figures/wsj_recreation_goal.png
+9a0df0740ce0b11e105739f5c7279b45 *man/figures/wsjplot_example.png
+7f40941fde26020a8a6c0a2b4968cddf *man/label_wsj.Rd
+5980fff17607d1e1039b1dafebc26781 *man/theme_wsj.Rd
+17379a6cc7ece847be55ce7188c2a7e2 *tests/testthat.R
+60e84f282eae053107177baff26531fa *tests/testthat/test_label_wsj.R
